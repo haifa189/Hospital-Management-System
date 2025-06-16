@@ -1,2 +1,3 @@
 # Hospital-Management-System
 Hospital Management System using SQL 
+Medical care is one of the most important aspects in our daily life. As years pass, the population is increasing, and with every human being born, the data of the medical information is increasing. Where hospitals are the largest institutions that hold medical records, it is important to maintain this data for it being sensitive. For that, the hospital database management system is built to manage departments, appointments, medical records and prescriptions, based on the treatments doctors were trained for and the state of patients.
